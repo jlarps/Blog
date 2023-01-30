@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Jared Arp"
+date: "2023-01-27"
+categories: [news]
+---
+
+The project that I have decided to work on is analytics for the Madison High School football team. My job is to create a Logistic Regression to predict what contributes most to the team gaining 4 yards on each down. I will do this by collecting and analyzing unstructured video data of each football game and record that data into an excel sheet. The final presentation will be formatted in R-shiny. I will learn how to use R-shiny and further develop my skills in Logistic Regression. I will also develop my presentation skills so that I can present in a professional manner to the Madison High School’s football coach.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
