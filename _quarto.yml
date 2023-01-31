@@ -1,9 +1,12 @@
 project:
   type: website
 
+execute: 
+  freeze: auto
+
 website:
   title: "Blog"
-  site-url: https://www.jlarpsblog.io
+  site-url: https://www.jlarps.github.io
   description: "A fantastic blog"
   navbar:
     right:

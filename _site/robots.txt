@@ -1,1 +1,1 @@
-Sitemap: https://www.jlarpsblog.io/sitemap.xml
+Sitemap: https://www.jlarps.github.io/sitemap.xml
