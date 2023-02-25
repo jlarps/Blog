@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog</title>
+<link>https://www.jlarps.github.io/index.html</link>
+<atom:link href="https://www.jlarps.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>A fantastic blog</description>
+<generator>quarto-1.2.313</generator>
+<lastBuildDate>Fri, 27 Jan 2023 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Jared Arp</dc:creator>
+  <link>https://www.jlarps.github.io/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://www.jlarps.github.io/posts/post-with-code/index.html</guid>
+  <pubDate>Fri, 27 Jan 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://www.jlarps.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Jared Arp</dc:creator>
+  <link>https://www.jlarps.github.io/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The project that I have decided to work on is analytics for the Madison High School football team. My job is to create a Logistic Regression to predict what contributes most to the team gaining 4 yards on each down. I will do this by collecting and analyzing unstructured video data of each football game and record that data into an excel sheet. The final presentation will be formatted in R-shiny. I will learn how to use R-shiny and further develop my skills in Logistic Regression. I will also develop my presentation skills so that I can present in a professional manner to the Madison High School’s football coach.</p>
+<p><img src="https://www.jlarps.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>Second Blog Post:</p>
+<p>The new project that I have decided to work on is performing a Sentiment Analysis on restaraunt data. I have built the VADER algorithm which takes into account the weight of each word in a sentence and determines the positive, negative, and neutral percentage of the sentence or group of sentences. I have built a python script of the algorithm into Power BI and have created a dashboard for multiple restaraunts that I have web-scraped. The owner(s) can search for a specific word or sentence and find any review that matches. They also can see the positivity, negativity, and neutrality ratio of each Google review.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://www.jlarps.github.io/posts/welcome/index.html</guid>
+  <pubDate>Fri, 27 Jan 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://www.jlarps.github.io/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
