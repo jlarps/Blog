@@ -45,6 +45,8 @@
 <p><img src="https://www.jlarps.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Second Blog Post:</p>
 <p>The new project that I have decided to work on is performing a Sentiment Analysis on restaraunt data. I have built the VADER algorithm which takes into account the weight of each word in a sentence and determines the positive, negative, and neutral percentage of the sentence or group of sentences. I have built a python script of the algorithm into Power BI and have created a dashboard for multiple restaraunts that I have web-scraped. The owner(s) can search for a specific word or sentence and find any review that matches. They also can see the positivity, negativity, and neutrality ratio of each Google review.</p>
+<p>Third Blog Post:</p>
+<p>I have built a scheduled unattended bot using Power Automate to navigate through the Google Reviews API to collect new restaurant data reviews and upload it into a csv file and store it into the data folder. This will allow my client to refresh the data set in Power BI automatically from the online end.</p>
 
 
 
